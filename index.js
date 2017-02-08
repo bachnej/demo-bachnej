@@ -28,7 +28,7 @@ app.get('/sensors/bob-sensor', (req, res) => {
 
 app.get('/hello/world', (req, res) => {
   res.send({
-    message: "Hello 🌏!",
+    message: "Hello 🌏! bach is here",
     whoami: "babs bunny"
   })
 });
